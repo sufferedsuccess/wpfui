@@ -1,39 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.1.32407.343
+VisualStudioVersion = 17.14.36705.20 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wpf.Ui", "Wpf.Ui\Wpf.Ui.csproj", "{1ADC87D1-8963-4100-845A-18477824718E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21DB16AA-40BB-428B-AFE8-DEF4E3F0DC49}"
-	ProjectSection(SolutionItems) = preProject
-		Directory.Build.props = Directory.Build.props
-		..\LICENSE = ..\LICENSE
-		Packages.props = Packages.props
-		..\README.md = ..\README.md
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.Ui", "Wpf.Ui\Wpf.Ui.csproj", "{1ADC87D1-8963-4100-845A-18477824718E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
-		Debug|x86 = Debug|x86
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
-		Release|x86 = Release|x86
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1ADC87D1-8963-4100-845A-18477824718E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1ADC87D1-8963-4100-845A-18477824718E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1ADC87D1-8963-4100-845A-18477824718E}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{1ADC87D1-8963-4100-845A-18477824718E}.Debug|x86.Build.0 = Debug|Any CPU
+		{1ADC87D1-8963-4100-845A-18477824718E}.Debug|x64.ActiveCfg = Debug|x64
+		{1ADC87D1-8963-4100-845A-18477824718E}.Debug|x64.Build.0 = Debug|x64
 		{1ADC87D1-8963-4100-845A-18477824718E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ADC87D1-8963-4100-845A-18477824718E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1ADC87D1-8963-4100-845A-18477824718E}.Release|x86.ActiveCfg = Release|Any CPU
-		{1ADC87D1-8963-4100-845A-18477824718E}.Release|x86.Build.0 = Release|Any CPU
+		{1ADC87D1-8963-4100-845A-18477824718E}.Release|x64.ActiveCfg = Release|x64
+		{1ADC87D1-8963-4100-845A-18477824718E}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {234CB3F9-5ADC-433F-BDBD-CB8EA59EB518}
+		SolutionGuid = {90AFD611-FC30-4EA6-8DC8-0487D739901A}
 	EndGlobalSection
 EndGlobal
